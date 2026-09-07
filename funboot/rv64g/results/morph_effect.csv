@@ -1,0 +1,7 @@
+bench,mode,status,reductions,cata,ana,para,hylo,result
+TribeLie,plain,RAN,11482,0,0,0,0,48
+TribeLie,morph,RAN,11482,0,0,0,0,48
+TribeLie,mmorph,RAN,11482,0,0,0,0,48
+TribeLieMorphM,plain,RAN,10710,0,0,0,0,48
+TribeLieMorphM,morph,RAN,10967,0,0,1,0,48
+TribeLieMorphM,mmorph,RAN,10710,0,0,0,0,48

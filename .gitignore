@@ -1,0 +1,7 @@
+# build outputs and run artifacts -- regenerable, never committed
+funboot/rv64g/build/
+*.plot
+*.elf
+*.o
+*.hi
+frame[0-9]*.ppm

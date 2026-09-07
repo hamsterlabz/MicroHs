@@ -1,0 +1,10 @@
+-- EXPECT: 2178309
+module FliteFib31(main) where
+import Prelude
+fib :: Int -> Int
+fib n =
+  if n <= 1
+     then 1
+     else fib (n - 1) + fib (n - 2)
+main :: IO ()
+main = putStrLn (show (fib 31))

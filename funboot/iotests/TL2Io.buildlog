@@ -1,0 +1,1 @@
+/opt/riscv/riscv32-unknown-elf/bin/ld: warning: TL2Io.elf has a LOAD segment with RWX permissions

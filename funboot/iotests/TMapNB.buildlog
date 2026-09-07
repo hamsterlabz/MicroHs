@@ -1,0 +1,1484 @@
+STAGEMARK cached? TMapNB -> MISS
+STAGEMARK enter TMapNB <- funboot/iotests/TMapNB.hs len=5692
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Mhs.Builtin -> MISS
+STAGEMARK enter Mhs.Builtin <- lib/Mhs/Builtin.hs len=991
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Error -> MISS
+STAGEMARK enter Control.Error <- lib/Control/Error.hs len=1504
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> MISS
+STAGEMARK enter Primitives <- lib/Primitives.hs len=14561
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Bool_Type -> MISS
+STAGEMARK enter Data.Bool_Type <- lib/Data/Bool_Type.hs len=206
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Bool_Type
+STAGEMARK cached? Data.Ordering_Type -> MISS
+STAGEMARK enter Data.Ordering_Type <- lib/Data/Ordering_Type.hs len=130
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Ordering_Type
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Primitives
+STAGEMARK cached? Data.Char_Type -> MISS
+STAGEMARK enter Data.Char_Type <- lib/Data/Char_Type.hs len=159
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.List_Type -> MISS
+STAGEMARK enter Data.List_Type <- lib/Data/List_Type.hs len=625
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.List_Type
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Char_Type
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Control.Exception.Internal -> MISS
+STAGEMARK enter Control.Exception.Internal <- lib/Control/Exception/Internal.hs len=2862
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.Maybe_Type -> MISS
+STAGEMARK enter Data.Maybe_Type <- lib/Data/Maybe_Type.hs len=216
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Maybe_Type
+STAGEMARK cached? Data.Typeable -> MISS
+STAGEMARK enter Data.Typeable <- lib/Data/Typeable.hs-boot len=374
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK cached? Text.Show -> MISS
+STAGEMARK enter Text.Show <- lib/Text/Show.hs len=1043
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Text.Show
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Control.Exception.Internal
+STAGEMARK cached? Data.Typeable -> MISS
+STAGEMARK enter Data.Typeable <- lib/Data/Typeable.hs-boot len=374
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Control.Error
+STAGEMARK cached? Control.Monad -> MISS
+STAGEMARK enter Control.Monad <- lib/Control/Monad.hs len=5856
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> MISS
+STAGEMARK enter Control.Applicative <- lib/Control/Applicative.hs len=1791
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK cached? Data.Functor -> MISS
+STAGEMARK enter Data.Functor <- lib/Data/Functor.hs len=744
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Function -> MISS
+STAGEMARK enter Data.Function <- lib/Data/Function.hs len=1174
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Function
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Functor
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK cached? Data.Functor.Const_Type -> MISS
+STAGEMARK enter Data.Functor.Const_Type <- lib/Data/Functor/Const_Type.hs len=491
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool -> MISS
+STAGEMARK enter Data.Bool <- lib/Data/Bool.hs len=940
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK cached? Data.Bounded -> MISS
+STAGEMARK enter Data.Bounded <- lib/Data/Bounded.hs len=175
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Bounded
+STAGEMARK cached? Data.Eq -> MISS
+STAGEMARK enter Data.Eq <- lib/Data/Eq.hs len=264
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Eq
+STAGEMARK cached? Data.Ord -> MISS
+STAGEMARK enter Data.Ord <- lib/Data/Ord.hs len=2681
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Ordering_Type -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Ord
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Bool
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> MISS
+STAGEMARK enter Data.Int <- lib/Data/Int.hs len=1866
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Int.IntN -> MISS
+STAGEMARK enter Data.Int.IntN <- lib/Data/Int/IntN.hs len=560
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Int.IntN
+STAGEMARK cached? Data.Integer_Type -> MISS
+STAGEMARK enter Data.Integer_Type <- lib/Data/Integer_Type.hs len=2224
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Integer_Type
+STAGEMARK cached? Data.Integral -> MISS
+STAGEMARK enter Data.Integral <- lib/Data/Integral.hs len=2016
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Integer_Type -> HIT
+STAGEMARK cached? Data.Num -> MISS
+STAGEMARK enter Data.Num <- lib/Data/Num.hs len=488
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Integer_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Num
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Real -> MISS
+STAGEMARK enter Data.Real <- lib/Data/Real.hs len=237
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio_Type -> MISS
+STAGEMARK enter Data.Ratio_Type <- lib/Data/Ratio_Type.hs len=357
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Integer_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Ratio_Type
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Real
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Integral
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio_Type -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Int
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Functor.Const_Type
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Control.Applicative
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.List -> MISS
+STAGEMARK enter Data.List <- lib/Data/List.hs len=21530
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> MISS
+STAGEMARK enter Data.Char <- lib/Data/Char.hs len=4285
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Char
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> MISS
+STAGEMARK enter Data.Monoid.Internal <- lib/Data/Monoid/Internal.hs len=6217
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.List.NonEmpty_Type -> MISS
+STAGEMARK enter Data.List.NonEmpty_Type <- lib/Data/List/NonEmpty_Type.hs len=127
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.List.NonEmpty_Type
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Records -> MISS
+STAGEMARK enter Data.Records <- lib/Data/Records.hs len=951
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Proxy -> MISS
+STAGEMARK enter Data.Proxy <- lib/Data/Proxy.hs len=427
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Proxy
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Records
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Monoid.Internal
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Tuple -> MISS
+STAGEMARK enter Data.Tuple <- lib/Data/Tuple.hs len=7187
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Records -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Tuple
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.List
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Control.Monad
+STAGEMARK cached? Control.Monad.Fail -> MISS
+STAGEMARK enter Control.Monad.Fail <- lib/Control/Monad/Fail.hs len=357
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Control.Monad.Fail
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Enum -> MISS
+STAGEMARK enter Data.Enum <- lib/Data/Enum.hs len=2850
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Enum
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Fractional -> MISS
+STAGEMARK enter Data.Fractional <- lib/Data/Fractional.hs len=655
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio_Type -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Fractional
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Proxy -> HIT
+STAGEMARK cached? Data.Semigroup -> MISS
+STAGEMARK enter Data.Semigroup <- lib/Data/Semigroup.hs len=3752
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.List.NonEmpty_Type -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Records -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Semigroup
+STAGEMARK cached? Data.String -> MISS
+STAGEMARK enter Data.String <- lib/Data/String.hs len=299
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.String
+STAGEMARK cached? Data.Records -> HIT
+STAGEMARK cached? Data.Typeable -> MISS
+STAGEMARK enter Data.Typeable <- lib/Data/Typeable.hs-boot len=374
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Mhs.Builtin
+STAGEMARK cached? Prelude -> MISS
+STAGEMARK enter Prelude <- lib/Prelude.hs len=3426
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Control.Monad.Fail -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Double -> MISS
+STAGEMARK enter Data.Double <- lib/Data/Double.hs len=2004
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.FloatW -> MISS
+STAGEMARK enter Data.FloatW <- lib/Data/FloatW.hs len=7101
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bits -> MISS
+STAGEMARK enter Data.Bits <- lib/Data/Bits.hs len=3039
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Maybe -> MISS
+STAGEMARK enter Data.Maybe <- lib/Data/Maybe.hs len=2705
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Control.Monad.Fail -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Maybe
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Bits
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Floating -> MISS
+STAGEMARK enter Data.Floating <- lib/Data/Floating.hs len=1274
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Fractional -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Floating
+STAGEMARK cached? Data.Fractional -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Integer -> MISS
+STAGEMARK enter Data.Integer <- lib/Data/Integer.hs len=12957
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Enum -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integer_Type -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio_Type -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Numeric.Show -> MISS
+STAGEMARK enter Numeric.Show <- lib/Numeric/Show.hs len=1984
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Numeric.Show
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Integer
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio -> MISS
+STAGEMARK enter Data.Ratio <- lib/Data/Ratio.hs len=4837
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Enum -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Fractional -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Integer -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio_Type -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Data.RealFrac -> MISS
+STAGEMARK enter Data.RealFrac <- lib/Data/RealFrac.hs len=1015
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Fractional -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.RealFrac
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Ratio
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Data.RealFloat -> MISS
+STAGEMARK enter Data.RealFloat <- lib/Data/RealFloat.hs len=2623
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Floating -> HIT
+STAGEMARK cached? Data.Fractional -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integer -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.RealFloat
+STAGEMARK cached? Data.RealFrac -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Word -> MISS
+STAGEMARK enter Data.Word <- lib/Data/Word.hs len=10370
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bits -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Enum -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integer -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Numeric.Show -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Word
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.FloatW
+STAGEMARK cached? Data.Floating -> HIT
+STAGEMARK cached? Data.Fractional -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Data.RealFloat -> HIT
+STAGEMARK cached? Data.RealFrac -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Double
+STAGEMARK cached? Data.FloatW -> HIT
+STAGEMARK cached? Data.Either -> MISS
+STAGEMARK enter Data.Either <- lib/Data/Either.hs len=1361
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Either
+STAGEMARK cached? Data.Enum -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Float -> MISS
+STAGEMARK enter Data.Float <- lib/Data/Float.hs len=1983
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.FloatW -> HIT
+STAGEMARK cached? Data.Floating -> HIT
+STAGEMARK cached? Data.Fractional -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Data.RealFloat -> HIT
+STAGEMARK cached? Data.RealFrac -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Float
+STAGEMARK cached? Data.Floating -> HIT
+STAGEMARK cached? Data.Fractional -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Int.Instances -> MISS
+STAGEMARK enter Data.Int.Instances <- lib/Data/Int/Instances.hs len=8318
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bits -> HIT
+STAGEMARK cached? Data.Bool_Type -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Enum -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Int.IntN -> HIT
+STAGEMARK cached? Data.Integer_Type -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio_Type -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Numeric.Show -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Int.Instances
+STAGEMARK cached? Data.Integer -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.Monoid -> MISS
+STAGEMARK enter Data.Monoid <- lib/Data/Monoid.hs len=773
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Records -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Monoid
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Data.RealFloat -> HIT
+STAGEMARK cached? Data.RealFrac -> HIT
+STAGEMARK cached? Data.Records -> HIT
+STAGEMARK cached? Data.Semigroup -> HIT
+STAGEMARK cached? Data.String -> HIT
+STAGEMARK cached? Data.Tuple -> HIT
+STAGEMARK cached? Data.Word -> HIT
+STAGEMARK cached? System.IO -> MISS
+STAGEMARK enter System.IO <- lib/System/IO.hs len=9986
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Control.Monad.Fail -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.String -> HIT
+STAGEMARK cached? Data.Tuple -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK cached? Foreign.C.String -> MISS
+STAGEMARK enter Foreign.C.String <- lib/Foreign/C/String.hs len=977
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Foreign.Marshal.Alloc -> MISS
+STAGEMARK enter Foreign.Marshal.Alloc <- lib/Foreign/Marshal/Alloc.hs len=1294
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Foreign.C.Types -> MISS
+STAGEMARK enter Foreign.C.Types <- lib/Foreign/C/Types.hs len=2520
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Data.Word -> HIT
+STAGEMARK cached? Data.FloatW -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Foreign.C.Types
+STAGEMARK cached? Foreign.Ptr -> MISS
+STAGEMARK enter Foreign.Ptr <- lib/Foreign/Ptr.hs len=1987
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Word -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Numeric.Show -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Foreign.Ptr
+STAGEMARK cached? Foreign.Storable -> MISS
+STAGEMARK enter Foreign.Storable <- lib/Foreign/Storable.hs len=6605
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Foreign.C.Types -> HIT
+STAGEMARK cached? Foreign.Ptr -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Int.Instances -> HIT
+STAGEMARK cached? Data.Word -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Foreign.Storable
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Foreign.Marshal.Alloc
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Foreign.C.String
+STAGEMARK cached? Foreign.Marshal.Alloc -> HIT
+STAGEMARK cached? Foreign.Ptr -> HIT
+STAGEMARK cached? System.IO.Unsafe -> MISS
+STAGEMARK enter System.IO.Unsafe <- lib/System/IO/Unsafe.hs len=267
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store System.IO.Unsafe
+STAGEMARK cached? System.IO.Internal -> MISS
+STAGEMARK enter System.IO.Internal <- lib/System/IO/Internal.hs len=3577
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Control.Monad.Fail -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.IORef -> MISS
+STAGEMARK enter Data.IORef <- lib/Data/IORef.hs len=811
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Typeable -> MISS
+STAGEMARK enter Data.Typeable <- lib/Data/Typeable.hs-boot len=374
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.IORef
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Foreign.Ptr -> HIT
+STAGEMARK cached? Mhs.Builtin -> HIT
+STAGEMARK cached? System.IO_Handle -> MISS
+STAGEMARK enter System.IO_Handle <- lib/System/IO_Handle.hs len=540
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.IORef -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store System.IO_Handle
+STAGEMARK cached? System.IO.Unsafe -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store System.IO.Internal
+STAGEMARK cached? System.IO.Error -> MISS
+STAGEMARK enter System.IO.Error <- lib/System/IO/Error.hs len=9962
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Exception.Internal -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Either -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.Records -> HIT
+STAGEMARK cached? Data.String -> HIT
+STAGEMARK cached? Data.Typeable -> MISS
+STAGEMARK enter Data.Typeable <- lib/Data/Typeable.hs-boot len=374
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK cached? System.IO.Internal -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store System.IO.Error
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store System.IO
+STAGEMARK cached? System.IO.Error -> HIT
+STAGEMARK cached? Text.Read -> MISS
+STAGEMARK enter Text.Read <- lib/Text/Read.hs len=3093
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Either -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.String -> HIT
+STAGEMARK cached? Text.Read.Internal -> MISS
+STAGEMARK enter Text.Read.Internal <- lib/Text/Read/Internal.hs len=26050
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Control.Monad.Fail -> HIT
+STAGEMARK cached? Data.Array -> MISS
+STAGEMARK enter Data.Array <- lib/Data/Array.hs len=3906
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Enum -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Ix -> MISS
+STAGEMARK enter Data.Ix <- lib/Data/Ix.hs len=3414
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Enum -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integer -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Tuple -> HIT
+STAGEMARK cached? Data.Word -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Ix
+STAGEMARK cached? Data.IOArray -> MISS
+STAGEMARK enter Data.IOArray <- lib/Data/IOArray.hs len=463
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.IOArray
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? System.IO -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Array
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Double -> HIT
+STAGEMARK cached? Data.Either -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Float -> HIT
+STAGEMARK cached? Data.Fractional -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integer -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.Ix -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Data.RealFloat -> HIT
+STAGEMARK cached? Data.String -> HIT
+STAGEMARK cached? Data.Tuple -> HIT
+STAGEMARK cached? Data.Word -> HIT
+STAGEMARK cached? Numeric.Natural -> MISS
+STAGEMARK enter Numeric.Natural <- lib/Numeric/Natural.hs len=949
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? MiniPrelude -> MISS
+STAGEMARK enter MiniPrelude <- lib/MiniPrelude.hs len=1848
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Enum -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Either -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Records -> HIT
+STAGEMARK cached? Data.String -> HIT
+STAGEMARK cached? Data.Tuple -> HIT
+STAGEMARK cached? System.IO -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store MiniPrelude
+STAGEMARK cached? Data.Integer -> HIT
+STAGEMARK cached? Data.Real -> HIT
+STAGEMARK cached? Control.Exception -> MISS
+STAGEMARK enter Control.Exception <- lib/Control/Exception.hs len=3641
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? MiniPrelude -> HIT
+STAGEMARK cached? Control.Exception.Internal -> HIT
+STAGEMARK cached? Data.Typeable -> MISS
+STAGEMARK enter Data.Typeable <- lib/Data/Typeable.hs-boot len=374
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Data.Char_Type -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK cached? System.IO.Unsafe -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Control.Exception
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Numeric.Natural
+STAGEMARK cached? Text.ParserCombinators.ReadP -> MISS
+STAGEMARK enter Text.ParserCombinators.ReadP <- lib/Text/ParserCombinators/ReadP.hs len=13661
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Control.Monad.Fail -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.List.NonEmpty -> MISS
+STAGEMARK enter Data.List.NonEmpty <- lib/Data/List/NonEmpty.hs len=25329
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Foldable -> MISS
+STAGEMARK enter Data.Foldable <- lib/Data/Foldable.hs len=12541
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Either -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Foldable.Internal -> MISS
+STAGEMARK enter Data.Foldable.Internal <- lib/Data/Foldable/Internal.hs len=2458
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Maybe_Type -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Foldable.Internal
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor.Const -> MISS
+STAGEMARK enter Data.Functor.Const <- lib/Data/Functor/Const.hs len=635
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Functor.Const_Type -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Functor.Const
+STAGEMARK cached? Data.Functor.Identity -> MISS
+STAGEMARK enter Data.Functor.Identity <- lib/Data/Functor/Identity.hs len=744
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Records -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Functor.Identity
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.Monoid -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Proxy -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Foldable
+STAGEMARK cached? Data.Foldable -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.List.NonEmpty_Type -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Traversable -> MISS
+STAGEMARK enter Data.Traversable <- lib/Data/Traversable.hs len=7062
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Either -> HIT
+STAGEMARK cached? Data.Foldable -> HIT
+STAGEMARK cached? Data.Foldable.Internal -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Functor -> HIT
+STAGEMARK cached? Data.Functor.Const -> HIT
+STAGEMARK cached? Data.Functor.Identity -> HIT
+STAGEMARK cached? Data.List_Type -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK cached? Data.Proxy -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Traversable
+STAGEMARK cached? Data.Tuple -> HIT
+STAGEMARK cached? GHC.Stack -> MISS
+STAGEMARK enter GHC.Stack <- lib/GHC/Stack.hs len=293
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store GHC.Stack
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.List.NonEmpty
+STAGEMARK cached? Data.Monoid.Internal -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Text.ParserCombinators.ReadP
+STAGEMARK cached? Text.ParserCombinators.ReadP -> HIT
+STAGEMARK cached? Text.ParserCombinators.ReadPrec -> MISS
+STAGEMARK enter Text.ParserCombinators.ReadPrec <- lib/Text/ParserCombinators/ReadPrec.hs len=4099
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Applicative -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Control.Monad.Fail -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Text.ParserCombinators.ReadP -> HIT
+STAGEMARK cached? Text.ParserCombinators.ReadP -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Text.ParserCombinators.ReadPrec
+STAGEMARK cached? Text.Read.Lex -> MISS
+STAGEMARK enter Text.Read.Lex <- lib/Text/Read/Lex.hs len=19059
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Control.Error -> HIT
+STAGEMARK cached? Control.Monad -> HIT
+STAGEMARK cached? Data.Char -> HIT
+STAGEMARK cached? Data.Bool -> HIT
+STAGEMARK cached? Data.Bounded -> HIT
+STAGEMARK cached? Data.Eq -> HIT
+STAGEMARK cached? Data.Function -> HIT
+STAGEMARK cached? Data.Int -> HIT
+STAGEMARK cached? Data.Integer -> HIT
+STAGEMARK cached? Data.Integral -> HIT
+STAGEMARK cached? Data.List -> HIT
+STAGEMARK cached? Data.Maybe -> HIT
+STAGEMARK cached? Data.Num -> HIT
+STAGEMARK cached? Data.Ord -> HIT
+STAGEMARK cached? Data.Ratio -> HIT
+STAGEMARK cached? Data.Tuple -> HIT
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK cached? Text.ParserCombinators.ReadP -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Text.Read.Lex
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Text.Read.Internal
+STAGEMARK cached? Text.Read.Lex -> HIT
+STAGEMARK cached? Text.ParserCombinators.ReadPrec -> HIT
+STAGEMARK cached? Text.ParserCombinators.ReadP -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Text.Read
+STAGEMARK cached? Text.Show -> HIT
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Orphans -> MISS
+STAGEMARK enter Data.Orphans <- lib/Data/Orphans.hs len=265
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? MiniPrelude -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Orphans
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Prelude
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store TMapNB
+STAGEMARK cached? Data.Typeable -> MISS
+STAGEMARK enter Data.Typeable <- lib/Data/Typeable.hs len=6369
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? MiniPrelude -> HIT
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK cached? Data.Double -> HIT
+STAGEMARK cached? Data.Integer -> HIT
+STAGEMARK cached? Data.Proxy -> HIT
+STAGEMARK cached? Data.Ratio -> HIT
+STAGEMARK cached? Data.Type.Equality -> MISS
+STAGEMARK enter Data.Type.Equality <- lib/Data/Type/Equality.hs len=599
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? MiniPrelude -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Type.Equality
+STAGEMARK cached? Data.Void -> MISS
+STAGEMARK enter Data.Void <- lib/Data/Void.hs len=229
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? MiniPrelude -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Void
+STAGEMARK cached? Data.Word -> HIT
+STAGEMARK cached? System.IO.MD5 -> MISS
+STAGEMARK enter System.IO.MD5 <- lib/System/IO/MD5.hs len=961
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? MiniPrelude -> HIT
+STAGEMARK cached? System.IO -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store System.IO.MD5
+STAGEMARK cached? Unsafe.Coerce -> MISS
+STAGEMARK enter Unsafe.Coerce <- lib/Unsafe/Coerce.hs len=200
+STAGEMARK md5
+STAGEMARK parsed
+STAGEMARK cached? Primitives -> HIT
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Unsafe.Coerce
+STAGEMARK imports
+STAGEMARK typechecked
+STAGEMARK desugared
+STAGEMARK store Data.Typeable
+gmhs: no location: No definition found for: TMapNB.main
+CallStack (from HasCallStack):
+  error, called at src/MicroHs/Expr.hs:707:24 in main:MicroHs.Expr
+  errorMessage, called at src/MicroHs/ExpPrint.hs:40:34 in main:MicroHs.ExpPrint
+HasCallStack backtrace:
+  collectBacktraces, called at libraries/ghc-internal/src/GHC/Internal/Exception.hs:169:13 in ghc-internal:GHC.Internal.Exception
+  toExceptionWithBacktrace, called at libraries/ghc-internal/src/GHC/Internal/IO.hs:260:11 in ghc-internal:GHC.Internal.IO
+  throwIO, called at libraries/ghc-internal/src/GHC/Internal/Control/Exception/Base.hs:195:43 in ghc-internal:GHC.Internal.Control.Exception.Base
+
+

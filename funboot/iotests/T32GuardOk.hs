@@ -1,0 +1,10 @@
+-- EXPECT: 10
+module T32GuardOk(main) where
+import Prelude
+f :: Int -> Int -> Int
+f a b
+  | a + b <= 1 = 10
+f 0 _ = 20
+f _ _ = 30
+main :: IO ()
+main = putStrLn (show (f 0 0))

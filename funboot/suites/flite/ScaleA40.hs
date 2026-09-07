@@ -1,0 +1,44 @@
+module ScaleA40 where
+import Prelude()
+import NanoPrelude
+g0 x = x
+g1 x = x
+g2 x = x
+g3 x = x
+g4 x = x
+g5 x = x
+g6 x = x
+g7 x = x
+g8 x = x
+g9 x = x
+g10 x = x
+g11 x = x
+g12 x = x
+g13 x = x
+g14 x = x
+g15 x = x
+g16 x = x
+g17 x = x
+g18 x = x
+g19 x = x
+g20 x = x
+g21 x = x
+g22 x = x
+g23 x = x
+g24 x = x
+g25 x = x
+g26 x = x
+g27 x = x
+g28 x = x
+g29 x = x
+g30 x = x
+g31 x = x
+g32 x = x
+g33 x = x
+g34 x = x
+g35 x = x
+g36 x = x
+g37 x = x
+g38 x = x
+g39 x = x
+main = g0 1 + g1 1 + g2 1 + g3 1 + g4 1 + g5 1 + g6 1 + g7 1 + g8 1 + g9 1 + g10 1 + g11 1 + g12 1 + g13 1 + g14 1 + g15 1 + g16 1 + g17 1 + g18 1 + g19 1 + g20 1 + g21 1 + g22 1 + g23 1 + g24 1 + g25 1 + g26 1 + g27 1 + g28 1 + g29 1 + g30 1 + g31 1 + g32 1 + g33 1 + g34 1 + g35 1 + g36 1 + g37 1 + g38 1 + g39 1

@@ -1,0 +1,16 @@
+_error0
+_pm_arr_alloc
+_pm_arr_read
+_pm_putbf
+_pm_setfd
+_prim_eq
+_prim_ge
+_prim_gt
+_prim_le
+_prim_leu
+_prim_lt
+_prim_ne
+_raise
+_seq
+_unimpfi__
+_unimpfi_halt
